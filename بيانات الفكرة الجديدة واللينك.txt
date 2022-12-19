@@ -1,0 +1,19 @@
+trainee name:
+هيلانه لمعي اسكندر شاروبيم
+
+section 7
+
+url of website will scrap:
+
+https://www.tolaitila.com/cate/59
+
+describe data will be scrap:
+
+Collecting the names of books and the name of the author from the e-books website,especially sciences
+
+output:
+ 
+only print data
+
+
+
