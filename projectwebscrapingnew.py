@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-url="https://www.tolaitila.com/cate/1"
+url="https://www.tolaitila.com/cate/59"
 page=requests.get(url)
 #print(page.content)
 soup=BeautifulSoup(page.content,"html.parser")
